@@ -1,0 +1,28 @@
+{
+  "version": "2.2.4",
+  "songName": "Fresh (Spooky Mix)",
+  "artist": "eden_essence",
+  "charter": "RubyyyButCool",
+  "timeFormat": "ms",
+  "divisions": 96,
+  "offsets": {"instrumental": 0},
+  "timeChanges": [{ "t": 0, "bpm": 120, "n": 4, "d": 4, "bt": [4, 4, 4, 4] }],
+  "looped": false,
+  "playData": {
+    "songVariations": [],
+    "difficulties": ["easy", "normal", "hard"],
+    "characters": {
+      "player": "spooky-playable","girlfriend": "moloch","opponent": "dad-spooky",
+      "instrumental": "spookymod","playerVocals": ["spooky"],"opponentVocals": ["dad"], "altInstrumentals": ["pico", ""]
+    },
+    "stage": "mainStageSpooky",
+    "noteStyle": "funkin",
+    "ratings": { "easy": 2, "normal": 3, "hard": 4 },
+    "album": "spookymix1",
+    "stickerPack": null
+  },
+  "previewStart": 0,
+  "previewEnd": 15000,
+  "generatedBy": "LeGooey (By Hand)",
+  "modArt": "Denoohay, givemethesalt"
+}
