@@ -1,1 +1,2 @@
-["{\"name\":\"Enriquetorial\",\"icon\":\"bfpixel\",\"folderName\":\"enriquetorial\",\"modName\":\"Silly-secrets\",\"difficulties\":{\"easy\":2,\"normal\":3,\"hard\":5}}","{\"name\":\"Boil\",\"icon\":\"boiled\",\"modName\":\"Silly-secrets\",\"difficulties\":{\"easy\":5,\"normal\":6,\"hard\":7}}"]
+["{\"name\":\"Enriquetorial\",\"icon\":\"bf\",\"folderName\":\"enriquetorial\",\"modName\":\"Silly-secrets\",\"difficulties\":{\"easy\":2,\"normal\":3,\"hard\":5}}","{\"name\":\"Boil\",\"icon\":\"boiled\",\"modName\":\"Silly-secrets\",\"difficulties\":{\"easy\":5,\"normal\":6,\"hard\":7}}"]
+
