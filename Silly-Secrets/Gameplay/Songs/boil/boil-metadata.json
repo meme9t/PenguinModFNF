@@ -1,0 +1,56 @@
+{
+  "version": "2.2.4",
+  "songName": "Boil",
+  "artist": "meme9_tud",
+  "charter": "meme9_tud",
+  "divisions": 96,
+  "looped": false,
+  "playData": {
+    "songVariations": [],
+    "difficulties": [
+      "easy",
+      "normal",
+      "hard"
+    ],
+    "characters": {
+      "player": "aster",
+      "girlfriend": "neowise",
+      "opponent": "boiled",
+      "instrumental": "",
+      "opponentVocals": [
+        "boiled"
+      ],
+      "playerVocals": [
+        "aster"
+      ]
+    },
+    "stage": "mainStage",
+    "noteStyle": "funkin",
+    "ratings": {
+      "easy": 6,
+      "normal": 7,
+      "hard": 9
+    },
+    "album": "mcvol1",
+    "stickerPack": "standard-mc",
+    "previewStart": 0,
+    "previewEnd": 15000
+  },
+  "generatedBy": "Friday Night Funkin' - v0.7.3",
+  "timeFormat": "ms",
+  "timeChanges": [
+    {
+      "t": 0,
+      "b": 0,
+      "bpm": 175,
+      "n": 4,
+      "d": 4,
+      "bt": [
+        4,
+        4,
+        4,
+        4
+      ]
+    }
+  ]
+}
