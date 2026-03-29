@@ -1,0 +1,28 @@
+{
+  "version": "2.2.4",
+  "songName": "Darnell (Spooky Mix)",
+  "artist": "Clarky_Dev",
+  "charter": "LimeIsHere & RubyyyButCool",
+  "timeFormat": "ms",
+  "divisions": 96,
+  "offsets": {"instrumental": 0},
+  "timeChanges": [{ "t": 0, "bpm": 155, "n": 4, "d": 4, "bt": [4, 4, 4, 4] }],
+  "looped": false,
+  "playData": {
+    "songVariations": [],
+    "difficulties": ["easy", "normal", "hard"],
+    "characters": {
+      "player": "spooky-playable","girlfriend": "moloch","opponent": "darnell-spooky",
+      "instrumental": "spookymod","playerVocals": ["spooky"],"opponentVocals": ["darnell"], "altInstrumentals": []
+    },
+    "stage": "phillyStreetsSpooky",
+    "noteStyle": "funkin",
+    "ratings": { "easy": 5, "normal": 7, "hard": 8 },
+    "album": "spookymix2",
+    "stickerPack": null
+  },
+  "previewStart": 0,
+  "previewEnd": 15000,
+  "generatedBy": "LeGooey (By Hand)",
+  "modArt": "swagsalt, Denoohay, givemethesalt"
+}
